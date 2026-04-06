@@ -1,4 +1,4 @@
-# PerfectGym Vacancy Checker
+# web-monitor-alert-system
 
 Automated Python script that monitors a PerfectGym booking portal for available spots in a specific swim class and sends an email notification when a vacancy appears.
 
